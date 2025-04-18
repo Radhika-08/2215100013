@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # Logs
 logs
 *.log
@@ -12,22 +11,12 @@ node_modules
 dist
 dist-ssr
 *.local
-.env.test.local
-.env.production.local
-
-npm-debug.log*
-yarn-debug.log*
-yarn-error.log*
->>>>>>> 11c119b638f514c329838c2a55db001e177ad5a9
 
 # Editor directories and files
 .vscode/*
 !.vscode/extensions.json
 .idea
-<<<<<<< HEAD
 .DS_Store
-=======
->>>>>>> 11c119b638f514c329838c2a55db001e177ad5a9
 *.suo
 *.ntvs*
 *.njsproj
